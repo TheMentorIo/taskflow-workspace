@@ -1,0 +1,46 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+# Eclipse
+.factorypath
+.springBeans
+.sts4-cache/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+application-secret.properties
+
+# Java
+*.class
+
+# Build
+build/
+out/
+
+.metadata/
+
+# Local credentials
+.aws/
+*.pem
+*.key
+*.p12
+*.jks
